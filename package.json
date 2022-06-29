@@ -1,0 +1,20 @@
+{
+  "name": "tarea_uno_qa_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --browser chrome --e2e"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Esteban Corrales",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.1.0"
+  }
+}
